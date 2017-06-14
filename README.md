@@ -2,5 +2,5 @@
 My first repository
 Hi Friends!
 
-I am a computer science engineer with knowledge of some programmimg languages.
-Currently, I want to learn about the JavaScript.
+I am a computer science engineer with knowledge of some computer programmimg languages.
+I want to learn more about the JavaScript.
